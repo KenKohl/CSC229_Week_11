@@ -26,5 +26,13 @@ public class DriverClass {
         bst.inOrderTraversal();
         
         bst.print();
+
+        //Testing methods
+        //bst.preOrderTraversal();
+        //System.out.println(bst.findHeight());
+
+
+
+
     }
 }
